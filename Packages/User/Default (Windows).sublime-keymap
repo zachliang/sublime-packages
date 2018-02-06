@@ -1,0 +1,6 @@
+[
+	{
+		"key":["ctrl+alt+f"],
+		"command":"reindent"
+	}
+]

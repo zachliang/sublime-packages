@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Babel",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"CSScomb",
+		"DocBlockr",
+		"Emmet",
+		"FileHeader",
+		"Jade",
+		"JsFormat",
+		"JSX",
+		"LESS",
+		"LiveReload",
+		"Package Control",
+		"React Templates",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"Themr",
+		"Vue Syntax Highlight",
+		"VueFormatter",
+		"Vuejs Snippets"
+	]
+}
